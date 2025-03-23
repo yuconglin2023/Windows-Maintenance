@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Windows Maintenance\bin\x64\Release\Windows Maintenance.exe.config
+C:\Users\HP\Desktop\Windows Maintenance\bin\x64\Release\Windows Maintenance.exe
+C:\Users\HP\Desktop\Windows Maintenance\bin\x64\Release\Windows Maintenance.pdb
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows Maintenance.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows_Maintenance.Form1.resources
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows_Maintenance.Form2.resources
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows_Maintenance.Properties.Resources.resources
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows Maintenance.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows Maintenance.exe
+C:\Users\HP\Desktop\Windows Maintenance\obj\x64\Release\Windows Maintenance.pdb
